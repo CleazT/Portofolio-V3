@@ -38,7 +38,7 @@ body {
 }
 
 #my1 /*myprojects main div */ {
-    height: 600px;
+    height: 700px;
     background-color:rgb(209,207,205);
 }
 
@@ -48,4 +48,52 @@ body {
 
 #imgs {
 
+}
+
+#wave2 {
+    background-color:rgb(209,207,205);
+}
+
+#kontekmi {
+    background-color:rgb(39,48,54);
+    height: 600px;
+}
+
+#t1 {
+    font-size: 50px;
+}
+
+#t2 {
+    text-align: center;
+    padding-top: 11px;
+}
+
+#p98 {
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+
+#kontekmiisi {
+    margin: 125px 150px 20px 150px;
+}
+
+#ph {
+    padding-left: 180px;
+    padding-top: 100px;
+    height: 200px
+}
+
+#em {
+        padding-top: 100px;
+        padding-left: 70px;
+        border-left: white solid 2px;
+        border-right: white solid 2px;
+        height: 200px;
+}
+
+#di {
+    padding-left: 180px;
+    padding-top: 100px;
+    height: 200px;
 }
